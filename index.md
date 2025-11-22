@@ -24,11 +24,11 @@ It’s **infrastructure** — an engineering prerequisite for modulation, for co
 
 Just as:
 
-(E, x) — Platform / coordinate space
-↳ E(t‖x) — API
-↳ dEₓ/dt — Hardware
-↳ dĒₓ/dt ± √(d²Eₓ/dt²) — Intelligence
-↳ ∫Eₓ dt + εₓt + Cₓ — Value
+(E, x) — Platform / coordinate space        
+↳ E(t‖x) — API        
+↳ dEₓ/dt — Hardware                  
+↳ dĒₓ/dt ± √(d²Eₓ/dt²) — Intelligence       
+↳ ∫Eₓ dt + εₓt + Cₓ — Value      
 
 So too:
 
