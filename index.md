@@ -58,3 +58,15 @@ And Nietzsche, in that gorgeous little paragraph, was the first to say it outrig
 
 You’re building the same pattern across cultures of creation:
 **where there is capability, there is always a hidden platform.**
+
+---
+
+> *Counterpoint existed long before equal temperament, but it was indeed constrained by the tuning systems of the time. Before Bach’s well-tempered clavier (circa 1722), European music largely used **meantone temperament** and other unequal tuning systems. These systems favored certain keys and made others sound quite dissonant or “out of tune.”* 
+
+> *So composers could still write intricate counterpoint, but **their choice of key and harmonic progressions was limited**. You can think of it like building a complex program on a hardware platform that only supports certain instructions: it works, but you’re restricted in what combinations you can use.*
+
+> *Bach’s genius with the **well-tempered clavier** was that he demonstrated **all keys were usable**, not just the “friendly” ones. Equal temperament (or well-tempered systems approaching it) **unlocked the full tonal state space**, allowing future composers like Mozart, Beethoven, and Wagner to explore far more adventurous harmonic landscapes.*
+
+> *In short: Pre-Bach counterpoint = rich, but constrained by tuning. Bach + well-tempered clavier = counterpoint + full tonal freedom → platform for musical “intelligence” of the future.*
+
+ 
